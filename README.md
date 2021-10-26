@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @finbini
+- 👀 I’m interested in .py and .js
+- 🌱 I’m currently learning Onething
+- 💞️ I’m looking to collaborate on .Nothing
